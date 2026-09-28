@@ -1,0 +1,10 @@
+{
+"name":"Bac Bo Sinal",
+"short_name":"BacBo Sinal",
+"start_url":"./",
+"display":"standalone",
+"background_color":"#050b20",
+"theme_color":"#071332",
+"orientation":"portrait",
+"icons":[]
+}
